@@ -8,7 +8,7 @@ public class Ejercicio01 {
         v4  = 3;
         v5  = 5;
         v6  = 8;
-        respuesta = ((v1+v2+v3+v4)/v5) + Math.sqrt(v6);
+        respuesta = (( v1 + v2 + v3 + v4 ) / v5) + Math.sqrt(v6);
         System.out.println("respuesta = " + respuesta);
     }
 }
