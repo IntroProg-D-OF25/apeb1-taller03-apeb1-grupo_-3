@@ -1,4 +1,6 @@
+
 public class Ejercicio05 {
+
     public static void main(String[] args) {
         int v1, v2, v3, v4, v5;
         double respuesta;
@@ -7,7 +9,8 @@ public class Ejercicio05 {
         v3 = 12;
         v4 = 1;
         v5 = 3;
-respuesta = (Math.pow(v1, v2)+v3-v4)/v5;
+        respuesta = (Math.pow(v1, v2) + v3 - v4) / v5;
+        System.out.println("--------- Solución del problema ------------------");
         System.out.println("respuesta = " + respuesta);
     }
 }
